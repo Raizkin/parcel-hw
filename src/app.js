@@ -1,4 +1,4 @@
-import { add, multiply, minus, divide } from "./math";
+import { add, multiply, minus, divide } from "./math.js";
 
 const a = 200;
 const b = 100;
